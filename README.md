@@ -1,1 +1,1 @@
-# .github
+# BLACKOUT HACKATON
